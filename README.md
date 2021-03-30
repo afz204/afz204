@@ -11,7 +11,3 @@
 afz204/afz204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="rfanazhari"><a class="LI-simple-link" href='https://id.linkedin.com/in/rfanazhari?trk=profile-badge'>Arfan Azhari</a></div>
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
